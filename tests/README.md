@@ -1,1 +1,1 @@
-Here you can store any test cases for the functions you've written. Your test files should use `testthat` style tests so that you can call the `test.project()` function to automatically execute all of your test code.
+여기서 작성한 함수에 대한 테스트 케이스를 저장할 수 있습니다. 테스트 파일은 `testthat` 스타일 테스트를 사용하여 `test.project()` 함수를 호출하여 모든 테스트 코드를 자동으로 실행할 수 있도록해야합니다.
