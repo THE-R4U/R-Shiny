@@ -1,1 +1,1 @@
-Here you'll store any configurations settings for your project. Use the DCF format that the `read.dcf()` function parses.
+여기서 프로젝트의 모든 구성 설정을 저장합니다. `read.dcf()`함수가 구문 분석하는 DCF 형식을 사용하십시오.
