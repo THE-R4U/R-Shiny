@@ -1,3 +1,3 @@
-Here you'll store any files that provide useful functionality for your work, but do not constitute a statistical analysis per se. Specifically, you should use the `lib/helpers.R` script to organize any functions you use in your project that aren't quite general enough to belong in a package.
+여기서 작업에 유용한 기능을 제공하는 파일을 저장하지만 그 자체로 통계 분석을 구성하지는 않습니다. 특히 `lib/helpers.R` 스크립트를 사용하여 프로젝트에서 사용하는 함수를 패키지에 포함하기에 충분히 일반적이지 않은 것으로 구성해야합니다.
 
-If you have project specific configuration that you'd like to store in the config object, you can specify that in `lib/globals.R`.  This is the first file loaded from `lib`, so any functions in `lib`, `munge` or `src` can reference this configuration by simply using the `config$my_config_var` form.
+config 객체에 저장하고자하는 프로젝트 고유의 설정이 있다면, `lib/globals.R`에서 지정할 수 있습니다. 이것은 `lib`에서 처음로드된 파일이므로 `lib`, `munge` 또는 `src` 함수는 `config$my_config_var` 형식을 사용하여이 구성을 참조 할 수 있습니다.
