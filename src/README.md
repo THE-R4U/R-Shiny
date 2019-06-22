@@ -1,1 +1,4 @@
 Here you'll store your final statistical analysis scripts. You should add the following piece of code to the start of each analysis script: `library('ProjectTemplate); load.project()`. You should also do your best to ensure that any code that's shared between the analyses in `src` is moved into the `munge` directory; if you do that, you can execute all of the analyses in the `src` directory in parallel. A future release of ProjectTemplate will provide tools to automatically execute every individual analysis from `src` in parallel.
+
+
+여기서 최종 통계 분석 스크립트를 저장합니다. 각 분석 스크립트의 시작 부분에 다음 코드를 추가해야합니다 :`library('ProjectTemplate); load.project ()`. 또한 `src` 에서 분석 사이에 공유 된 코드가 `munge` 디렉토리로 옮겨 지도록 최선을 다해야합니다. 그렇게하면 `src` 디렉토리에있는 모든 분석을 병렬로 실행할 수 있습니다. ProjectTemplate의 향후 릴리스에서는 `src' 의 모든 개별 분석을 병렬로 자동 실행하는 도구를 제공합니다.
